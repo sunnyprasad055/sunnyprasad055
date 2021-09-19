@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem solving
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on Application Building
-- 📫 How to reach me  
+- 📫 How to reach me  sunnyprasad055@gmail.com
 
 <!---
 sunnyprasad055/sunnyprasad055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
